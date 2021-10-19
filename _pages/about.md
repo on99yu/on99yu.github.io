@@ -12,7 +12,7 @@ thank you for coming~😊
 
 
 
-#####Interest in  
+#####  Interested in
 
 **Python**:  My starting language it needs to handle Database, Web-crawling
 
@@ -25,7 +25,8 @@ it's gonna be publishing
 
 
 
-#####Contact
+##### Contacts
+
 :e-mail:E-mail: dgjjangg@naver.com
 
  ![instagram](../images/about/instagram-16346474437881.png)[instagram](https://instagram.com/_don99y)
