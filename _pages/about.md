@@ -12,7 +12,7 @@ thank you for coming~😊
 
 
 
-#####  Interested in
+##### Interested in
 
 **Python**:  My starting language it needs to handle Database, Web-crawling
 
@@ -20,8 +20,7 @@ thank you for coming~😊
 
 **Database**:  To refine collected data, i have to study it
 
-**Web(back-end)**:  I'll record the process of creating Web-site with data  
-it's gonna be publishing
+**Web(back-end)**:  I'll record the process of creating Web-site with data  it's gonna be publishing
 
 
 
