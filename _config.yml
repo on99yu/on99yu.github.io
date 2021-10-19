@@ -111,10 +111,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/on99yu"
+      url: "https://github.com/on99yu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/_don99yu"
+      url: "https://instagram.com/_don99yu"
     # - label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
