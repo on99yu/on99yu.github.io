@@ -2,12 +2,21 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
+  - title: "Datascience"
+    url: /categories/datascience/
+  - title: "Python"
+    url: /categories/python/
+  - title: "Web"
+    url: /categories/web/
   - title: "Essay"
     url: /categories/essay/
-  - title: "Search"
-    url: /search
+  - title: "Review"
+    url: /categories/review/
+
+  #- title: "Search"
+  #  url: /search
+  #- title: "Category"
+  #  url: /categories/
 
 docs:
   - title: "Category"
