@@ -1,10 +1,9 @@
 ---
-title: ""
+title: "About me"
 permalink: /about/
 layout: single
 sidebar_main: true
 ---
-### About me
 
 Hello I'm university student marjoring in computer engineering
 I'm getting used to learing cause i lack a lot
