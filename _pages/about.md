@@ -7,7 +7,7 @@ sidebar_main: true
 
 Hello I'm university student marjoring in computer engineering
 I'm getting used to learing cause i lack a lot
-if you wanna change about  it's always open
+if you wanna change about  it's always open  
 thank you for coming~😊
 
 
