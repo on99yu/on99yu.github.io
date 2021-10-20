@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: ""
 permalink: /about/
 layout: single
 sidebar_main: true
 ---
+### About me
 
 Hello I'm university student marjoring in computer engineering
 I'm getting used to learing cause i lack a lot
@@ -12,7 +13,7 @@ thank you for coming~😊
 
 
 
-##### Interested in
+#### Interested in
 
 **Python**:  My starting language it needs to handle Database, Web-crawling
 
@@ -24,7 +25,7 @@ thank you for coming~😊
 
 
 
-##### Contacts
+#### Contacts
 
 📧 dgjjangg@naver.com
 
