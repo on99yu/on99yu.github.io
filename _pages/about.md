@@ -26,7 +26,7 @@ thank you for coming~😊
 
 #### Contacts
 
-📧 dgjjangg@naver.com
+📧onhn1019@naver.com
 
  ![instagram](../images/about/instagram-16346474437881.png) [Instagram](https://instagram.com/_don99y)
 
