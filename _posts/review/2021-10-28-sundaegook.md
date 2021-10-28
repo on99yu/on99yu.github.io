@@ -133,9 +133,11 @@ last_modified_at: 2021-10-28
 # 총평
 
 별점 - 3.5점 / 5점 
+
 <p align="left">
   <img src="\images\star\star3.5.png" alt="star3.5.png">
 </p>
+
 순대국의 맛은 좋았으나 김치-깍두기가 아쉬웠다.
 그래도 한끼 식사로 좋았다.
 얼큰이 순대국과 곱창볶음을 먹어보러 한번더 오고싶다.
