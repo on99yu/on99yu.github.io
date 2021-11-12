@@ -35,7 +35,7 @@ last_modified_at: 2021-11-09
 <br>
 
 <p align="center">
-<img src="\images\review\20211109-1.jpg" alt="20211109-1.jpg" height="80%">
+<img src="\images\review\20211109-1.jpg" alt="20211109-1.jpg" width="600" height="900">
 </p>
 
 **2021년 11월 5일 12시**  
@@ -56,7 +56,7 @@ last_modified_at: 2021-11-09
 <br>
 
 <p align="center">
-  <img src="\images\review\20211109-2.jpg" alt="20211109-2.jpg">
+  <img src="\images\review\20211109-2.jpg" alt="20211109-2.jpg" width="600" height="900">
 </p>
 
 메뉴는 단출하다.
@@ -75,7 +75,7 @@ last_modified_at: 2021-11-09
 <br>
 
 <p align="center">
-  <img src="\images\review\20211109-4.jpg" alt="20211109-4.jpg">
+  <img src="\images\review\20211109-4.jpg" alt="20211109-4.jpg" width="600" height="900">
 </p>
 
 반찬들은 평범하게 나온다. 
@@ -97,7 +97,7 @@ last_modified_at: 2021-11-09
 <br>
 
 <p align="center">
-  <img src="\images\review\20211109-5.jpg" alt="20211109-5.jpg" style="zoom:80%;">
+  <img src="\images\review\20211109-5.jpg" alt="20211109-5.jpg" width="600" height="900">
 </p>
 
 순댓국이다.  
@@ -109,7 +109,7 @@ last_modified_at: 2021-11-09
 <br>
 
 <p align="center">
-  <img src="\images\review\20211109-6.jpg" alt="20211109-6.jpg">
+  <img src="\images\review\20211109-6.jpg" alt="20211109-6.jpg" width="600" height="900">
 </p>
 
 식당 이름이 '고향순대국밥' 이고 메뉴판에 토종 순대라는 메뉴가 없어서 여기는  
@@ -134,7 +134,7 @@ last_modified_at: 2021-11-09
 별점 - 4.5점 / 5점 
 
 <p align="left">
-  <img src="\images\star\star4.5.png" alt="star4.5.png">
+  <img src="\images\star\star45.PNG" alt="star4.5.png">
 </p>
 
 이 동네 주변에 순댓국밥집은 여기가 하나인것같은데  

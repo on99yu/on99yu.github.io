@@ -24,7 +24,7 @@ last_modified_at: 2021-10-28
 
 <!--
 <p align="center">
-  <img src="" alt="">
+  <img src="" alt="" width="" height="">
 </p>
 
 -->
