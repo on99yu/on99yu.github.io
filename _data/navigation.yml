@@ -8,16 +8,18 @@ main:
     url: /search/
 
 docs:
-  - title: "Datascience"
-    url: /categories/datascience/
+  - title: "algorithm"
+    url: /categories/algorithm/
+  # - title: "Datascience"
+  #   url: /categories/datascience/
   - title: "Python"
     url: /categories/python/
-  - title: "Web"
-    url: /categories/web/
-  - title: "Essay"
-    url: /categories/essay/
-  - title: "Review"
-    url: /categories/review/
+  # - title: "Web"
+  #   url: /categories/web/
+  # - title: "Essay"
+  #   url: /categories/essay/
+  # - title: "Review"
+  #   url: /categories/review/
 
   # - title: "Datascience"
   #  url: /categories/datascience/
